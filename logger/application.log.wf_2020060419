@@ -1,6 +1,0 @@
-2020-06-04 19:39:57.094 【ERROR】 (File_test.go:logger.TestFileLogger:18) error ====
-2020-06-04 19:40:00.009 【ERROR】 (File_test.go:logger.TestFileLogger:18) error ====
-2020-06-04 19:40:02.992 【ERROR】 (File_test.go:logger.TestFileLogger:18) error ====
-2020-06-04 19:40:06.294 【ERROR】 (File_test.go:logger.TestFileLogger:18) error ====
-2020-06-04 19:40:11.352 【ERROR】 (File_test.go:logger.TestFileLogger:18) error ====
-2020-06-04 19:40:15.57 【ERROR】 (File_test.go:logger.TestFileLogger:18) error ====
